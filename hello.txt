@@ -1,8 +1,7 @@
 hellow git! hellow atguigu!12345
 hellow git! hellow atguigu!22222
-<<<<<<< HEAD
 hellow git! hellow atguigu!33333
 limanqi limanqi limanqi
 zuogexiaohai
 nuan nuanjiuwo yanrenzhong
->>>>>>> hot-fix
+
